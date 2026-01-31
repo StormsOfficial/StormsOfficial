@@ -1,44 +1,37 @@
-# 👋 Selam, ben Storm!
-
 ### 🧠 Hakkımda
 - 🛠️ **Skript Geliştirici** — Minecraft sunucuları için sıfırdan, modüler ve yapılandırılabilir skriptler yazıyorum.  
-- 💻 **Çok Dilli Geliştirici** — Java (öğreniyorum), JavaScript, HTML ve Lua (öğreniyorum) ile uğraşıyorum.  
-- ⚡ **Pratik ve Çözüm Odaklı** — Hazır çözümler yerine kendi sistemlerimi inşa etmeyi ve optimize etmeyi severim.  
+- 💻 **Çok Dilli Geliştirici** — Java (öğreniyorum), JavaScript ve Lua (öğreniyorum) ile uğraşıyorum.    
 - 🔍 **Performans ve Temiz Kod Tutkunu** — Kodlarım sade, okunabilir ve performans odaklıdır.  
 
 ---
 
 ## 🌟 Yetenekler & Araçlar
-- **Diller:** Java, JavaScript, HTML, Lua, Skript  
+- **Diller:** Java, JavaScript, Lua, Skript  
 - **Odak Alanları:**  
-  - Minecraft Skript Geliştirme  
-  - Modüler ve çok dilli projeler  
+  - Minecraft Skriptleri 
+  - UE5 Blueprint sistemi ile oyun geliştirme 
   - Performans optimizasyonu ve temiz kod  
 
 ---
 
 ## 🚀 Projeler
 ### 👾 NightShift (Video Game)
-- Steam sayfası yakında açılacak olan Post-Apocalyptic Top Down Shooter oyunu.
-
-### 🟦 IncognitoPlus (Minecraft Plugin)
-- SMP sunucular için modüler ve yapılandırılabilir bir görünmezlik/oyuncu yönetim sistemi.
+- Steam sayfası yakında açılacak olan Post-Apocalyptic Top Down Shooter oyunu. (Steam sayfası şubat ayı içinde açılacak.)
 
 ### 🟧 BoxMinePlus (Minecraft Skript)
-- BoxPvP/BoxMining Sunucuları için otomatik alan yenileme sistemi.
+- BoxPvP/BoxMining Sunucuları için otomatik alan yenileme sistemi. <a href="https://www.spigotmc.org/threads/mineregenplus-skript.712037/">Yayınlandı.</a> (Yakında düzenlenip tekrar paylaşılacak.)
 
-### 🟨 Çeşitli Skript Paketleri
-- Sunucular için özel geliştirilmiş isteğe bağlı sistemler.
+### 🟨 Çeşitli Özel Skriptler
+- Sunucular için özel geliştirilmiş isteğe bağlı skriptler.
 
-### 🟩 2 Player Forge
-- Son zamanlarda ünlü olmuş genre "Friendslop" ile ünlü olmuş oyun "The Forge"un birleşimi.
+### 🟩 Not Enough (Video Game) 
+- Son zamanlarda ünlü olmuş "Friendslop" türünde voice chat temalı bir oyun. (Prototip)
 
 ---
 
 ## 🎯 Hedefler
-- Daha gelişmiş ve modüler Minecraft Skript projeleri üretmek.
-- Gelişmiş Minecraft Plugin projeleri üretmek.
-- Lua dilinde gelişip Roblox Script projeleri üretmek.
+- Java dilinde gelişip Minecraft Plugin'leri yazmaya başlamak.
+- Lua dilinde gelişip Roblox Script'leri yazmaya başlamak.
 - GitHub’da aktif projeler paylaşarak portföyümü büyütmek.
 
 ---
@@ -46,3 +39,4 @@
 ## 📫 İletişim
 - 💬 Discord : @deathstorm2867
 - 🔗 E-Posta : storm@afterendstudios.com
+- 🛜 Website : https://www.afterendstudios.com
